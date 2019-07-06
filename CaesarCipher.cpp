@@ -55,5 +55,6 @@ int main(){
     return 0;
 }
 /*
-    ICE Programming Club
+    Enter the text : ICE Programming Club
+    Enter the shift value : 2
 */
